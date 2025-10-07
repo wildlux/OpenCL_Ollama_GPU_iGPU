@@ -2,9 +2,16 @@
 Code generate with AI ( is not tested) Be carefull
 
 
-What it is?
+Q : What does this code ?
 
-Split the task between GPU (nvidia/Radeon) and (intel/AMD)
+R : Split the task between GPU internal 
+
+Example  GPU + IGPU 
+        GPu = Nvidia or ATI Radeon
+        CPU graphic card = Intel graphic Card or AMD ati 
+
+
+----------------------------------------------------------------------------------------
 
 This is split by two in your graphics card and don't touch the space of kernel or OS.
 IN other words don't touch ram from your computer.
