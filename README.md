@@ -1,4 +1,4 @@
-# OpenCL_Ollama_GPU_iGPU
+# Using library Python OpenCL for split task with Ollama GPUs
 Code generate with AI ( is not tested) Be carefull
 
 
